@@ -8,4 +8,4 @@ Waveform references for verification:
   
 
 
-<img width="1920" height="1080" alt="AXI4-LITE (1)" src="https://github.com/user-attachments/assets/29d82c90-5c61-478f-ad20-b5cc0201fe05" />
+
